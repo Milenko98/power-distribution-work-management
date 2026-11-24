@@ -1,0 +1,12 @@
+# Build output
+bin/
+obj/
+# Visual Studio
+.vs/
+*.suo
+*.user
+# NuGet packages (restored on build)
+packages/
+# Node / Angular
+node_modules/
+dist/
